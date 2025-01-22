@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm John Ivan Galang 👋
 
-<!--
-**JohnIvanGalang/JohnIvanGalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently a **Stutent** in **Eastern Visayas State University** 
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: [galangjohnivan2003@gmail.com](mailto:galangjohnivan2003@gmail.com)
+- ⚡ Fun fact: I love playing chess
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: JavaScript, Python, Java, C
+- **Frameworks**: React, Node.js, Django, Flask
+- **Tools**: Git, VSCode, HTML5, CSS, Php, Python, Django, React Bootstrap
+- **Databases**: MySQL
+
+## GitHub Stats
+![JohnIvanGalang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnIvanGalang&show_icons=true&theme=radical)
+
+Thank you for visiting my profile!
